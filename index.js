@@ -200,5 +200,3 @@ export {
   Gesture
 }
 export default gesture;
-module.exports = gesture;
-exports.Gesture = Gesture;
