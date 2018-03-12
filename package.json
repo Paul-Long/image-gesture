@@ -1,0 +1,27 @@
+{
+  "name": "image-gesture",
+  "version": "0.0.1",
+  "description": "img hammer gesture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paul-Long/image-gesture.git"
+  },
+  "keywords": [
+    "img",
+    "hammer",
+    "gesture"
+  ],
+  "author": "paul-long <7328194@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Paul-Long/image-gesture/issues"
+  },
+  "homepage": "https://github.com/Paul-Long/image-gesture#readme",
+  "dependencies": {
+    "hammerjs": "^2.0.8"
+  }
+}
